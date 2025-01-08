@@ -1,3 +1,7 @@
-*
-!/**/
-!*.*
+# ignore files
+*.dSYM
+*.exe
+
+# vscode folders to ignore
+.DS_Store
+.vscode
